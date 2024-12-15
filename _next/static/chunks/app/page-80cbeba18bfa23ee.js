@@ -667,7 +667,7 @@
                 "mt-36 sm:mt-48 px-4 text-white opacity-70 text-2xl max-w-[960px] mx-auto text-center",
               style: { textShadow: "4px 0px 8px #ffffffb5" },
               children:
-                "Loop is a money market utilizing smart collateral with automated leverage to maximize capital efficiency and returns of Restaking products.",
+                "Cyclic AI is a money market utilizing smart collateral with automated leverage to maximize capital efficiency and returns of Restaking products.",
             })
           );
         });
