@@ -1,0 +1,20 @@
+<svg width="16" height="14" viewBox="0 0 16 14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <pattern id="6hou2l4bzb" width="100%" height="100%" patternUnits="objectBoundingBox">
+            <use xlink:href="#v15wyjbida"/>
+        </pattern>
+        <filter x="0%" y="0%" width="100%" height="100%" filterUnits="objectBoundingBox" id="nya6w5g10c">
+            <feGaussianBlur in="SourceGraphic"/>
+        </filter>
+        <image id="v15wyjbida" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAADKADAAQAAAABAAAADAAAAAATDPpdAAABW0lEQVQoFV1Ry07DQAycZL3PpiECIW7wCRyQEH/Bf/FhfAWn3lELfYQ0yYbxil5wtFGcnRmP7er58W0ZxgH9ucdxOOHwc8C+38OKQ7AR3gV4CSW3xkKC9dDIS8Y4jxAjqKoK+tS1gdQEEahgFZHoIi/qQprzDK1mmCtJyQpyeiisREl+VT4M1TTO0xlytEXdi6etgEBRMR7GsMI6RIyZfidflJS0Pe5oscIqrNHElsDEqg5VLSTEyMsFOS+YUoNudaUcfPU9rtt7GKHlytKi2qbNdUz8wQb5wxqD6Bxen1545/D+sSHxh33NmHKmaIa0tCQEOrFI3qOlwF3b0bcrlTafO2xPOvKR/c2QhgQnwubYB0GXXNEPN10hJWfx3Q84nTn25EMhXEie5MuYFX3bpEJSu37gBIPVxaglKUf+xltQfCXv0M25pKZm0wq2uiAe4cJ0af9jRZI2rfEL2idfbpck0V0AAAAASUVORK5CYII="/>
+    </defs>
+    <g transform="translate(-.004)" fill="none" fill-rule="evenodd">
+        <path d="M8.002 0c-.955 0-1.738.741-1.803 1.68a6.326 6.326 0 0 1 1.803-.26c.626 0 1.231.09 1.803.26A1.807 1.807 0 0 0 8.002 0zm5.831 5.292c.318.754.493 1.583.493 2.452h1.678c0-1.346-.97-2.438-2.17-2.452zm-1.125 6.677a6.356 6.356 0 0 1-1.443 1.194l.373.477a.937.937 0 0 0 1.475-1.153l-.405-.518zm-7.935 1.214a6.35 6.35 0 0 1-1.45-1.185l-.382.489a.936.936 0 0 0 1.475 1.153l.357-.457zM1.678 7.744c0-.87.175-1.698.493-2.452C.97 5.306 0 6.398 0 7.744h1.678z" fill="#6AC334"/>
+        <rect fill="#6AC334" fill-rule="nonzero" x="2.194" y="1.936" width="11.616" height="11.616" rx="5.808"/>
+        <g transform="translate(2.7 2.452)">
+            <rect fill="#000" fill-rule="nonzero" x=".01" width="10.583" height="10.583" rx="5.292"/>
+            <rect fill="url(#6hou2l4bzb)" fill-rule="nonzero" width="10.583" height="10.583" rx="5.292"/>
+            <path d="M5.86 8.412c.035.523-.21.966-.547.99-.337.023-.64-.382-.675-.904-.036-.523.21-.966.546-.99.338-.023.64.381.675.904m-3.53-.298c-.243-.119-.25-.628-.014-1.138.236-.51.625-.826.869-.707.244.118.25.628.014 1.137-.235.51-.624.827-.868.708M1.304 4.301c.041-.244.459-.34.932-.212.473.128.822.43.78.675-.041.245-.458.34-.931.212-.473-.128-.823-.43-.781-.675m2.193-2.894c.127-.057.428.279.674.75.245.472.341.9.214.957-.126.057-.428-.28-.673-.75-.246-.472-.342-.9-.215-.957m3.711.288c.087.075-.076.427-.363.788-.288.36-.591.592-.678.518-.087-.074.076-.427.364-.788.287-.36.59-.592.677-.518m1.023 1.972a.947.947 0 1 1 .388 1.854.947.947 0 0 1-.388-1.854m.043 2.937c.42.346.523.913.228 1.266-.294.353-.874.36-1.295.014-.42-.346-.523-.912-.228-1.266.294-.353.874-.36 1.295-.014" fill="#FFF" filter="url(#nya6w5g10c)"/>
+        </g>
+    </g>
+</svg>
