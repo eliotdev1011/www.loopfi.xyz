@@ -123,7 +123,7 @@
                       {
                         img: "DLV",
                         title: "Dynamic Liquidity Vault",
-                        desc: "Pair LOOP with lpETH and lock for governance, boosted emissions and revenue share.",
+                        desc: "Pair CYCLE with lpETH and lock for governance, boosted emissions and revenue share.",
                       },
                     ],
                     render: (e, t) =>
