@@ -476,13 +476,13 @@
                         (0, l.jsx)("h2", {
                           className:
                             "text-3xl lg:text-3.5xl font-medium text-white",
-                          children: "Bootstrap the Loop protocol",
+                          children: "Bootstrap the Cyclic AI",
                         }),
                         (0, l.jsx)("p", {
                           className:
                             "text-sm opacity-50 max-w-[432px] pb-6 md:pb-0 text-white",
                           children:
-                            "Deposit ETH and LRTs to bootstrap borrowing liquidity for the Loop protocol. You earn points for the upcoming Airdrop",
+                            "Deposit ETH and LRTs to bootstrap borrowing liquidity for the Cyclic AI. You earn points for the upcoming Airdrop",
                         }),
                       ],
                     }),
