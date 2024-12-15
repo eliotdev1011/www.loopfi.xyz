@@ -24,7 +24,7 @@
         },
       });
       let o = {
-        LAUNCH_APP_URL: "https://app.loopfi.xyz/",
+        LAUNCH_APP_URL: "https://app-cyclicai-xyz.vercel.app/",
         BETA_TESTING_URL: "https://beta.loopfi.xyz/",
         HEADER_URL: "https://app.galxe.com/quest/Loop",
         PAGES: {
